@@ -13,3 +13,9 @@ Step 2: Create a Dockerfile
 
 ![Image of Step 2](https://github.com/pyruskimo/G4-Test/blob/master/Step%202%20-%20Create%20a%20Dockerfile.png)
 
+
+
+
+Step 3: Define services in a Compose file
+
+![Image of Step 3](https://github.com/pyruskimo/G4-Test/blob/master/Step%203%20-%20Define%20services%20in%20a%20Compose%20file.png)
